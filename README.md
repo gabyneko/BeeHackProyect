@@ -1,4 +1,6 @@
 # BeeHackProyect.me :smile:
+![Bee](https://cdn.shopify.com/s/files/1/0020/7372/2946/products/RPlanta_Blanco_1.1_2000x.jpg?v=1531432291)
+
 Nuestro proyecto...
 
 [Sitio BeeHack](https://thehackinglabs.com/beehack)
