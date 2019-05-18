@@ -13,10 +13,10 @@ Nuestro proyecto...
 -[ ] Adultos
 
 
-## Tecnologias
+## Tecnologías
 
 ### Costos
-Material | Costo | Tiempo
----------|-------|-------
-Laptop |12,000 |24hrs
-Sensor| 100 |2hrs
+|Material | Costo | Tiempo|
+|---------|-------|-------|
+|Laptop |12,000 |24hrs|
+|Sensor| 100 |2hrs|
